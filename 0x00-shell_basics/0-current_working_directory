@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ${target_PWD%/*}
+$(pwd /n)
